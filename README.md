@@ -1,6 +1,5 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
+
 ## Screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
@@ -48,8 +47,3 @@
 - After Login, Can see number of blood request Made, Approved, Pending, Rejected by Admin on their dashboard.
 - Patient can request for blood of specific blood group and unit from blood stock.
 - Patient can see their blood request history with status (Pending, Approved, Rejected).
-
----
-
-"# Blood_Bank_Managment_Syestem" 
-"# Blood_Bank_management-syestem" 
